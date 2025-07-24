@@ -1,4 +1,4 @@
-# RunCat 365
+# Cat runner bar
 
 **A cute running cat animation on your Windows Taskbar.**
 
