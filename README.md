@@ -18,4 +18,4 @@
 
 <img src="./docs/images/demo.gif" width="400" height="225" alt="demo" />
 
-#Give it a try
+# Give it a try
